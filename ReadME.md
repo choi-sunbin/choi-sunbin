@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF1000&height=300&section=header&text=Hi My Name is Sunbin Choi&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF1000&height=300&section=header&text=Hi "My Name is Sunbin Choi"&fontSize=40)
