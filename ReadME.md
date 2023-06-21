@@ -54,6 +54,7 @@
 ##  💻 Project 💻 
  > 42서울 공통과정 마지막 과제 `ft_transcendence`
  - Git : https://github.com/lev-Zero/lastpong
+ - 메인화면 : ![Last Pong Main](asset/LastPongMain.png)
  - Figma : ![Figma Design](asset/lastPongFigma.png)
  자세한 디자인 시안은 [해당 링크](https://www.figma.com/community/file/1199421293253949642)에서 볼 수 있습니다.
-
+ - 참여 파트 : Frontend 유저 인증 및 게임 로직 (Restful API, Socket io)
