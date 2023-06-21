@@ -45,12 +45,15 @@
 <img src="https://img.shields.io/badge/docker-3776AB?style=for-the-badge&logo=docker&logoColor=white"> 
 
  
+
 <h2> 📞 Contact 📞 </h2>
 <div style="display:flex; flex-direction:row;">
  <h2> email : csn1434@naver.com </h2> 
 </div>
 
+##  💻 Project 💻 
+ > 42서울 공통과정 마지막 과제 `ft_transcendence`
+ - Git : https://github.com/lev-Zero/lastpong
+ - Figma : ![Figma Design](asset/lastPongFigma.png)
+ 자세한 디자인 시안은 [해당 링크](https://www.figma.com/community/file/1199421293253949642)에서 볼 수 있습니다.
 
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgh1254)](https://solved.ac/dlwlgh1254) -->
-
- 
